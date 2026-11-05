@@ -1,0 +1,1300 @@
+{
+  "sheets": [
+    {
+      "id": "pythagoras",
+      "added": "2026-10-02",
+      "en": {
+        "title": "Pythagorean Theorem",
+        "teaser": "a² + b² = c², solving for any side, the 90° test, real-life examples and a bonus.",
+        "pdf": "files/pythagoras_en.pdf",
+        "preview": "img/pythagoras_en.jpg",
+        "video": ""
+      },
+      "de": {
+        "title": "Satz des Pythagoras",
+        "teaser": "a² + b² = c², jede Seite berechnen, der 90°-Test, Alltagsbeispiele und ein Bonus.",
+        "pdf": "files/pythagoras_de.pdf",
+        "preview": "img/pythagoras_de.jpg",
+        "video": ""
+      }
+    },
+    {
+      "id": "geburtstag",
+      "added": "2026-10-05",
+      "en": {
+        "title": "Birthday Paradox",
+        "teaser": "Why 23 people are enough for a 50% chance of a shared birthday: pairs, the opposite trick and the growth curve.",
+        "pdf": "files/geburtstag_en.pdf",
+        "preview": "img/geburtstag_en.jpg",
+        "video": "https://youtu.be/lBcaFMvYXX0"
+      },
+      "de": {
+        "title": "Geburtstagsparadoxon",
+        "teaser": "Warum schon 23 Leute für eine 50-%-Chance auf einen gemeinsamen Geburtstag reichen: Paare, der Gegenteil-Trick und die Kurve.",
+        "pdf": "files/geburtstag_de.pdf",
+        "preview": "img/geburtstag_de.jpg",
+        "video": "https://youtu.be/iC55IQYkKcI"
+      }
+    },
+    {
+      "id": "herbstblaetter",
+      "added": "2026-10-06",
+      "en": {
+        "title": "Autumn Leaves",
+        "teaser": "Why leaves change color: chlorophyll and light, the hidden yellow, the recycling trick and why red is brand new.",
+        "pdf": "files/herbstblaetter_en.pdf",
+        "preview": "img/herbstblaetter_en.jpg",
+        "video": "https://youtu.be/_WVYH4yfV4k"
+      },
+      "de": {
+        "title": "Herbstblätter",
+        "teaser": "Warum Blätter bunt werden: Chlorophyll und Licht, das versteckte Gelb, der Recycling-Trick und warum Rot ganz neu ist.",
+        "pdf": "files/herbstblaetter_de.pdf",
+        "preview": "img/herbstblaetter_de.jpg",
+        "video": "https://youtu.be/AT0B6RPHWps"
+      }
+    },
+    {
+      "id": "ada",
+      "added": "2026-10-13",
+      "en": {
+        "title": "Ada Lovelace",
+        "teaser": "Her timeline, Babbage's Analytical Engine, Note G (the first program), her big idea and her legacy.",
+        "pdf": "files/ada_en.pdf",
+        "preview": "img/ada_en.jpg",
+        "video": "https://youtu.be/ezZGLJ6oyX0"
+      },
+      "de": {
+        "title": "Ada Lovelace",
+        "teaser": "Ihre Lebensdaten, Babbages Analytical Engine, Notiz G (das erste Programm), ihre grosse Idee und ihr Erbe.",
+        "pdf": "files/ada_de.pdf",
+        "preview": "img/ada_de.jpg",
+        "video": "https://youtu.be/4pwiyQ_rB_c"
+      }
+    },
+    {
+      "id": "stimme",
+      "added": "2026-10-13",
+      "en": {
+        "title": "Your Recorded Voice",
+        "teaser": "Why your voice sounds strange on recordings: air vs. bone conduction, the psychology and a quick test.",
+        "pdf": "files/stimme_en.pdf",
+        "preview": "img/stimme_en.jpg",
+        "video": "https://youtu.be/vxgQLb1gyZE"
+      },
+      "de": {
+        "title": "Deine Stimme auf Aufnahmen",
+        "teaser": "Warum deine Stimme auf Aufnahmen fremd klingt: Luft- und Knochenschall, die Psychologie und ein schneller Test.",
+        "pdf": "files/stimme_de.pdf",
+        "preview": "img/stimme_de.jpg",
+        "video": "https://youtu.be/SEjh2LGVolA"
+      }
+    },
+    {
+      "id": "himmel",
+      "added": "2026-10-14",
+      "en": {
+        "title": "Why the Sky Is Blue",
+        "teaser": "Sunlight, scattering, blue vs. red, why the sky isn't violet and why sunsets turn orange.",
+        "pdf": "files/himmel_en.pdf",
+        "preview": "img/himmel_en.jpg",
+        "video": "https://youtu.be/A2TM2mvyR04"
+      },
+      "de": {
+        "title": "Warum der Himmel blau ist",
+        "teaser": "Sonnenlicht, Streuung, Blau gegen Rot, warum der Himmel nicht violett ist und warum Sonnenuntergänge orange werden.",
+        "pdf": "files/himmel_de.pdf",
+        "preview": "img/himmel_de.jpg",
+        "video": "https://youtu.be/EPYI7Z_K3bw"
+      }
+    },
+    {
+      "id": "preis",
+      "added": "2026-10-14",
+      "en": {
+        "title": "Why Everything Costs 9.99",
+        "teaser": "The left-digit effect, the dress study, price signals, a common myth and how to protect yourself.",
+        "pdf": "files/preis_en.pdf",
+        "preview": "img/preis_en.jpg",
+        "video": "https://youtu.be/m_hqAB4ODLw"
+      },
+      "de": {
+        "title": "Warum alles 9.90 kostet",
+        "teaser": "Der Linke-Ziffer-Effekt, die Kleider-Studie, Preis-Signale, ein Mythos und wie du dich schützt.",
+        "pdf": "files/preis_de.pdf",
+        "preview": "img/preis_de.jpg",
+        "video": "https://youtu.be/2qHcqhby3Mk"
+      }
+    },
+    {
+      "id": "pilze",
+      "added": "2026-10-15",
+      "en": {
+        "title": "The Secret World of Fungi",
+        "teaser": "Why fungi aren't plants, why they're our cousins, a record-breaking giant and mushroom safety.",
+        "pdf": "files/pilze_en.pdf",
+        "preview": "img/pilze_en.jpg",
+        "video": "https://youtu.be/YSdo9T4qfpI"
+      },
+      "de": {
+        "title": "Die geheime Welt der Pilze",
+        "teaser": "Warum Pilze keine Pflanzen sind, warum sie unsere Cousins sind, ein Rekord-Riese und Sicherheit beim Sammeln.",
+        "pdf": "files/pilze_de.pdf",
+        "preview": "img/pilze_de.jpg",
+        "video": "https://youtu.be/NswmXOCJzJM"
+      }
+    },
+    {
+      "id": "everest",
+      "added": "2026-10-15",
+      "en": {
+        "title": "Highest Mountain?",
+        "teaser": "Everest, Mauna Kea or Chimborazo: three ways to measure a mountain and why Earth isn't a perfect ball.",
+        "pdf": "files/everest_en.pdf",
+        "preview": "img/everest_en.jpg",
+        "video": "https://youtu.be/jCwf-N2BDIM"
+      },
+      "de": {
+        "title": "Der höchste Berg?",
+        "teaser": "Everest, Mauna Kea oder Chimborazo: drei Arten, einen Berg zu messen, und warum die Erde keine Kugel ist.",
+        "pdf": "files/everest_de.pdf",
+        "preview": "img/everest_de.jpg",
+        "video": "https://youtu.be/pMxWIzqoLTk"
+      }
+    },
+    {
+      "id": "null9",
+      "added": "2026-10-16",
+      "en": {
+        "title": "0.999... = 1",
+        "teaser": "What 0.999... really means, three simple proofs (fractions, algebra, the gap) and the lesson behind it.",
+        "pdf": "files/null9_en.pdf",
+        "preview": "img/null9_en.jpg",
+        "video": "https://youtu.be/BtMaTnB5k8Q"
+      },
+      "de": {
+        "title": "0,999... = 1",
+        "teaser": "Was 0,999... wirklich bedeutet, drei einfache Beweise (Brüche, Algebra, die Lücke) und die Lektion dahinter.",
+        "pdf": "files/null9_de.pdf",
+        "preview": "img/null9_de.jpg",
+        "video": "https://youtu.be/SCpCPy9uSeM"
+      }
+    },
+    {
+      "id": "delfin",
+      "added": "2026-10-16",
+      "en": {
+        "title": "How Dolphins Sleep",
+        "teaser": "Half-brain sleep, one eye open, their daily routine, 15 days on alert and other animals that do it too.",
+        "pdf": "files/delfin_en.pdf",
+        "preview": "img/delfin_en.jpg",
+        "video": "https://youtu.be/G85LlajwC6U"
+      },
+      "de": {
+        "title": "Wie Delfine schlafen",
+        "teaser": "Halbhirn-Schlaf, ein offenes Auge, ihr Tagesablauf, 15 Tage wach und andere Tiere, die das auch können.",
+        "pdf": "files/delfin_de.pdf",
+        "preview": "img/delfin_de.jpg",
+        "video": "https://youtu.be/-8iT5DlsOmY"
+      }
+    },
+    {
+      "id": "links",
+      "added": "2026-10-17",
+      "en": {
+        "title": "Left or Right?",
+        "teaser": "Why some countries drive on the left: medieval swords, big wagons, Napoleon, Britain and countries that switched.",
+        "pdf": "files/links_en.pdf",
+        "preview": "img/links_en.jpg",
+        "video": "https://youtu.be/ADmTa6C4gdk"
+      },
+      "de": {
+        "title": "Links oder rechts?",
+        "teaser": "Warum manche Länder links fahren: Schwerter im Mittelalter, grosse Fuhrwerke, Napoleon, Grossbritannien und Länder, die gewechselt haben.",
+        "pdf": "files/links_de.pdf",
+        "preview": "img/links_de.jpg",
+        "video": "https://youtu.be/IuzbmPK6rk0"
+      }
+    },
+    {
+      "id": "phobos",
+      "added": "2026-10-17",
+      "en": {
+        "title": "Phobos + MMX",
+        "teaser": "Mars's falling moon: how close it orbits, the mystery of its origin and Japan's MMX sample-return mission.",
+        "pdf": "files/phobos_en.pdf",
+        "preview": "img/phobos_en.jpg",
+        "video": "https://youtu.be/UYk-zcVzEWw"
+      },
+      "de": {
+        "title": "Phobos + MMX",
+        "teaser": "Der fallende Marsmond: wie nah er kreist, das Rätsel seiner Herkunft und die japanische Mission MMX.",
+        "pdf": "files/phobos_de.pdf",
+        "preview": "img/phobos_de.jpg",
+        "video": "https://youtu.be/OcXerYqjDXM"
+      }
+    },
+    {
+      "id": "gold",
+      "added": "2026-10-07",
+      "en": {
+        "title": "Gold: Safe Haven or Bubble?",
+        "teaser": "Why gold is special, the 2025–26 ride, why rising interest rates hurt gold, safe haven vs. stable, and three ways to own it.",
+        "pdf": "files/gold_en.pdf",
+        "preview": "img/gold_en.jpg",
+        "video": "https://youtu.be/5cnlxz2kM5s"
+      },
+      "de": {
+        "title": "Gold: Sicherer Hafen oder Blase?",
+        "teaser": "Warum Gold besonders ist, die wilde Fahrt 2025–26, warum steigende Zinsen Gold schaden, sicher vs. stabil und drei Wege zu Gold.",
+        "pdf": "files/gold_de.pdf",
+        "preview": "img/gold_de.jpg",
+        "video": "https://youtu.be/B_I2WwYkgyQ"
+      }
+    },
+    {
+      "id": "tiere",
+      "added": "2026-10-08",
+      "en": {
+        "title": "The First Animals",
+        "teaser": "Oldest fossils vs. the molecular clock, why the dates moved, why fossils are rare and how the first animals may have lived through Snowball Earth.",
+        "pdf": "files/tiere_en.pdf",
+        "preview": "img/tiere_en.jpg",
+        "video": "https://youtu.be/-ETQmXD6iXY"
+      },
+      "de": {
+        "title": "Die ersten Tiere",
+        "teaser": "Älteste Fossilien gegen die molekulare Uhr, warum sich die Daten verschieben, warum Fossilien selten sind und wie die ersten Tiere die Schneeball-Erde erlebt haben könnten.",
+        "pdf": "files/tiere_de.pdf",
+        "preview": "img/tiere_de.jpg",
+        "video": "https://youtu.be/leBoMrQINnk"
+      }
+    },
+    {
+      "id": "sturm",
+      "added": "2026-10-09",
+      "en": {
+        "title": "Hurricanes",
+        "teaser": "How a hurricane forms (warm water, little wind shear, Coriolis force), what rapid intensification is, why the storm surge is the deadliest part, and the Vibrio bacteria after the storm.",
+        "pdf": "files/sturm_en.pdf",
+        "preview": "img/sturm_en.jpg",
+        "video": "https://youtu.be/ItrCSf3wLJI"
+      },
+      "de": {
+        "title": "Hurrikans",
+        "teaser": "Wie ein Hurrikan entsteht (warmes Wasser, wenig Windscherung, Corioliskraft), was rasche Intensivierung ist, warum die Sturmflut am tödlichsten ist und die Vibrionen nach dem Sturm.",
+        "pdf": "files/sturm_de.pdf",
+        "preview": "img/sturm_de.jpg",
+        "video": "https://youtu.be/lr6StdKhTII"
+      }
+    },
+    {
+      "id": "cyber",
+      "added": "2026-10-08",
+      "en": {
+        "title": "Hacked via the Supplier",
+        "teaser": "The Publica data breach, how supply chain attacks work, how hackers get in and how to protect yourself from scam calls.",
+        "pdf": "files/cyber_en.pdf",
+        "preview": "img/cyber_en.jpg",
+        "video": "https://youtu.be/x7J1qnpot9s"
+      },
+      "de": {
+        "title": "Gehackt über den Lieferanten",
+        "teaser": "Das Datenleck bei Publica, wie Lieferkettenangriffe funktionieren, wie Hacker reinkommen und wie du dich vor Betrugsanrufen schützt.",
+        "pdf": "files/cyber_de.pdf",
+        "preview": "img/cyber_de.jpg",
+        "video": "https://youtu.be/8oNi28bmZwY"
+      }
+    },
+    {
+      "id": "beben",
+      "added": "2026-10-10",
+      "en": {
+        "title": "Earthquakes & Tsunamis",
+        "teaser": "The Panama M7.7 quake, plate tectonics, why sideways faults make no tsunami and how warnings are decided in minutes.",
+        "pdf": "files/beben_en.pdf",
+        "preview": "img/beben_en.jpg",
+        "video": "https://youtu.be/EAF9F2r9dcs"
+      },
+      "de": {
+        "title": "Erdbeben & Tsunamis",
+        "teaser": "Das Beben M7,7 in Panama, Plattentektonik, warum Seitwärts-Beben keinen Tsunami machen und wie Warnungen in Minuten entstehen.",
+        "pdf": "files/beben_de.pdf",
+        "preview": "img/beben_de.jpg",
+        "video": "https://youtu.be/KR4HQlY-56U"
+      }
+    },
+    {
+      "id": "mond",
+      "added": "2026-10-11",
+      "en": {
+        "title": "Life without the Moon?",
+        "teaser": "The Moon's three jobs: steady tilt, tides and a brake on Earth's spin.",
+        "pdf": "files/mond_en.pdf",
+        "preview": "img/mond_en.jpg",
+        "video": "https://youtu.be/gpSqNR7E-x4"
+      },
+      "de": {
+        "title": "Leben ohne Mond?",
+        "teaser": "Die drei Aufgaben des Mondes: stabile Neigung, Gezeiten und Bremse der Erddrehung.",
+        "pdf": "files/mond_de.pdf",
+        "preview": "img/mond_de.jpg",
+        "video": "https://youtu.be/iBA7z-htuCE"
+      }
+    },
+    {
+      "id": "rage",
+      "added": "2026-10-11",
+      "en": {
+        "title": "Ragebait",
+        "teaser": "Why anger goes viral: the negativity bias, how anger spreads, engagement algorithms and three warning signs.",
+        "pdf": "files/rage_en.pdf",
+        "preview": "img/rage_en.jpg",
+        "video": "https://youtu.be/XLgfR3KKlKE"
+      },
+      "de": {
+        "title": "Ragebait",
+        "teaser": "Warum Wut viral geht: Negativity Bias, wie Wut sich ausbreitet, Algorithmen und drei Warnzeichen.",
+        "pdf": "files/rage_de.pdf",
+        "preview": "img/rage_de.jpg",
+        "video": "https://youtu.be/twq4b8vdlWM"
+      }
+    },
+    {
+      "id": "nino",
+      "added": "2026-10-12",
+      "en": {
+        "title": "Godzilla El Niño",
+        "teaser": "Trade winds, warm water and upwelling: how El Niño works, its global effects and weather vs. climate change.",
+        "pdf": "files/nino_en.pdf",
+        "preview": "img/nino_en.jpg",
+        "video": "https://youtu.be/PMnXNGLB0hk"
+      },
+      "de": {
+        "title": "Godzilla-El-Niño",
+        "teaser": "Passatwinde, warmes Wasser und Auftrieb: wie El Niño funktioniert, seine Folgen weltweit und Wetter vs. Klimawandel.",
+        "pdf": "files/nino_de.pdf",
+        "preview": "img/nino_de.jpg",
+        "video": "https://youtu.be/Gy-63Hpe1hE"
+      }
+    },
+    {
+      "id": "glet",
+      "added": "2026-10-13",
+      "en": {
+        "title": "Glacier melt 2026",
+        "teaser": "Mass balance, the freezing level and Saharan dust: why Swiss glaciers lost over 5 % of their ice in one summer.",
+        "pdf": "files/glet_en.pdf",
+        "preview": "img/glet_en.jpg",
+        "video": "https://youtu.be/x-zF_VyNF3c"
+      },
+      "de": {
+        "title": "Gletscherschmelze 2026",
+        "teaser": "Massenbilanz, Nullgradgrenze und Saharastaub: warum die Schweizer Gletscher in einem Sommer über 5 % ihres Eises verloren.",
+        "pdf": "files/glet_de.pdf",
+        "preview": "img/glet_de.jpg",
+        "video": "https://youtu.be/XRHwLQsL7uA"
+      }
+    },
+    {
+      "id": "thal",
+      "added": "2026-10-18",
+      "en": {
+        "title": "Thales' theorem",
+        "teaser": "Why every triangle in a semicircle has a right angle: proof, converse, example, construction and the set square trick.",
+        "pdf": "files/thal_en.pdf",
+        "preview": "img/thal_en.jpg",
+        "video": "https://youtu.be/R0BohMYqAII"
+      },
+      "de": {
+        "title": "Satz des Thales",
+        "teaser": "Warum jedes Dreieck im Halbkreis einen rechten Winkel hat: Beweis, Umkehrung, Beispiel, Konstruktion und Geodreieck-Trick.",
+        "pdf": "files/thal_de.pdf",
+        "preview": "img/thal_de.jpg",
+        "video": "https://youtu.be/ZdlGpz8dUb0"
+      }
+    },
+    {
+      "id": "slope",
+      "added": "2026-10-20",
+      "en": {
+        "title": "Slope and gradient",
+        "teaser": "Slope = rise ÷ run: slope triangle, percent vs degrees (100 % = 45°), downhill gradient, slope m of a line and m from two points.",
+        "pdf": "files/slope_en.pdf",
+        "preview": "img/slope_en.jpg",
+        "video": "https://youtu.be/ptA2ao8YJX0"
+      },
+      "de": {
+        "title": "Steigung und Gefälle",
+        "teaser": "Steigung = Höhe ÷ Strecke: Steigungsdreieck, Prozent und Grad (100 % = 45°), Gefälle, Steigung m einer Geraden und m aus zwei Punkten.",
+        "pdf": "files/slope_de.pdf",
+        "preview": "img/slope_de.jpg",
+        "video": "https://youtu.be/HViZwp4GQw8"
+      }
+    },
+    {
+      "id": "lin",
+      "added": "2026-10-23",
+      "en": {
+        "title": "Linear Functions",
+        "teaser": "y = mx + b step by step: table of values, slope, y-intercept, drawing and reading lines, the zero, and why -40 °C = -40 °F.",
+        "pdf": "files/lin_en.pdf",
+        "preview": "img/lin_en.jpg",
+        "video": "https://youtu.be/a7rZFiYfiyA"
+      },
+      "de": {
+        "title": "Lineare Funktionen",
+        "teaser": "y = mx + b Schritt für Schritt: Wertetabelle, Steigung, y-Achsenabschnitt, Geraden zeichnen und ablesen, Nullstelle und warum -40 °C = -40 °F.",
+        "pdf": "files/lin_de.pdf",
+        "preview": "img/lin_de.jpg",
+        "video": "https://youtu.be/dZ76tRGh9m8"
+      }
+    },
+    {
+      "id": "kuehl",
+      "added": "2026-10-15",
+      "en": {
+        "title": "The Supermarket Fridge Hack",
+        "teaser": "How hackers heated French supermarket fridges to 50 °C: cooling and defrosting, online controllers, the cold chain and how to protect your smart home.",
+        "pdf": "files/kuehl_en.pdf",
+        "preview": "img/kuehl_en.jpg",
+        "video": "https://youtu.be/33qVECaX7bg"
+      },
+      "de": {
+        "title": "Der Kühlregal-Hack",
+        "teaser": "Wie Hacker Kühlregale in Frankreich auf 50 °C aufheizten: Kühlen und Abtauen, Steuerungen am Internet, die Kühlkette und wie du dein Smart Home schützt.",
+        "pdf": "files/kuehl_de.pdf",
+        "preview": "img/kuehl_de.jpg",
+        "video": "https://youtu.be/fYnmpEuyMWA"
+      }
+    },
+    {
+      "id": "chem1",
+      "added": "2026-10-18",
+      "en": {
+        "title": "What Is Chemistry?",
+        "teaser": "Substances and properties, atoms, the 118 elements, molecules, physical vs. chemical change and why you are made of stardust.",
+        "pdf": "files/chem1_en.pdf",
+        "preview": "img/chem1_en.jpg",
+        "video": "https://youtu.be/_7aqFc-UuFc"
+      },
+      "de": {
+        "title": "Was ist Chemie?",
+        "teaser": "Stoffe und Eigenschaften, Atome, die 118 Elemente, Moleküle, physikalisch oder chemisch und warum du aus Sternenstaub bist.",
+        "pdf": "files/chem1_de.pdf",
+        "preview": "img/chem1_de.jpg",
+        "video": "https://youtu.be/gU0eDMn8EhU"
+      }
+    },
+    {
+      "id": "fan",
+      "added": "2026-10-18",
+      "en": {
+        "title": "Driving upside down",
+        "teaser": "Weight vs. downforce, why an F1 car could stick to the ceiling from about 200 km/h, fan cars and thrusters.",
+        "pdf": "files/fan_en.pdf",
+        "preview": "img/fan_en.jpg",
+        "video": "https://youtu.be/WmSq_lK2nA8"
+      },
+      "de": {
+        "title": "Autos an der Decke",
+        "teaser": "Gewicht gegen Abtrieb, warum ein F1-Auto ab etwa 200 km/h an der Decke haften könnte, Ventilator-Autos und Steuerdüsen.",
+        "pdf": "files/fan_de.pdf",
+        "preview": "img/fan_de.jpg",
+        "video": "https://youtu.be/isYjl_URJ1E"
+      }
+    },
+    {
+      "id": "deepfake",
+      "added": "2026-10-19",
+      "en": {
+        "title": "Deepfakes",
+        "teaser": "How AI fakes faces and voices (forger vs. detective, noise to face), why only 0.1% spot every fake, the liar's dividend and 3 questions to check any clip.",
+        "pdf": "files/deepfake_en.pdf",
+        "preview": "img/deepfake_en.jpg",
+        "video": "https://youtu.be/jweN_sj6mGo"
+      },
+      "de": {
+        "title": "Deepfakes",
+        "teaser": "Wie KI Gesichter und Stimmen fälscht (Fälscher gegen Detektiv, aus Rauschen wird ein Gesicht), warum nur 0,1 % alle Fakes erkennen, die Dividende des Lügners und 3 Fragen für jeden Clip.",
+        "pdf": "files/deepfake_de.pdf",
+        "preview": "img/deepfake_de.jpg",
+        "video": "https://youtu.be/ZmKYvDzLqUA"
+      }
+    },
+    {
+      "id": "lunge",
+      "added": "2026-10-19",
+      "en": {
+        "title": "Lung cancer",
+        "teaser": "How lungs work, what cancer is, why non smokers get lung cancer too (radon, air pollution, secondhand smoke, chance), warning signs and why early detection matters.",
+        "pdf": "files/lunge_en.pdf",
+        "preview": "img/lunge_en.jpg",
+        "video": "https://youtu.be/WwZxBFZIXX4"
+      },
+      "de": {
+        "title": "Lungenkrebs",
+        "teaser": "Wie die Lunge funktioniert, was Krebs ist, warum auch Nichtraucher Lungenkrebs bekommen (Radon, Luftverschmutzung, Passivrauchen, Zufall), Warnzeichen und warum Früherkennung zählt.",
+        "pdf": "files/lunge_de.pdf",
+        "preview": "img/lunge_de.jpg",
+        "video": "https://youtu.be/Qw6f1k6JVvA"
+      }
+    },
+    {
+      "id": "chem2",
+      "added": "2026-10-21",
+      "en": {
+        "title": "Solid, liquid, gas: the particle model",
+        "teaser": "The three states of matter, temperature, changes of state and why ice floats.",
+        "pdf": "files/chem2_en.pdf",
+        "preview": "img/chem2_en.jpg",
+        "video": "https://youtu.be/tNiAxrk6fCQ"
+      },
+      "de": {
+        "title": "Fest, flüssig, gasförmig: das Teilchenmodell",
+        "teaser": "Die drei Aggregatzustände, Temperatur, Zustandsänderungen und warum Eis schwimmt.",
+        "pdf": "files/chem2_de.pdf",
+        "preview": "img/chem2_de.jpg",
+        "video": "https://youtu.be/Jvd0cq5u0ts"
+      }
+    },
+    {
+      "id": "napo",
+      "added": "2026-10-19",
+      "en": {
+        "title": "Codes & AI: Napoleon's secret letter",
+        "teaser": "How substitution and Caesar codes work, why frequency analysis breaks them, how AI cracked a 1809 letter from Napoleon's army, and why modern encryption is still safe.",
+        "pdf": "files/napo_en.pdf",
+        "preview": "img/napo_en.jpg",
+        "video": "https://youtu.be/iOQAtpPZD2w"
+      },
+      "de": {
+        "title": "Codes & KI: Napoleons Geheimbrief",
+        "teaser": "Wie Ersetzung und Cäsar-Code funktionieren, warum die Häufigkeitsanalyse sie knackt, wie eine KI einen Brief aus Napoleons Armee von 1809 entschlüsselte und warum moderne Verschlüsselung trotzdem sicher ist.",
+        "pdf": "files/napo_de.pdf",
+        "preview": "img/napo_de.jpg",
+        "video": "https://youtu.be/9GfsgyYRcyI"
+      }
+    },
+    {
+      "id": "qualle",
+      "added": "2026-10-20",
+      "en": {
+        "title": "Rocket jellyfish: why launches glow at dawn",
+        "teaser": "Why a rocket plume lights up before sunrise, how Earth's shadow and thin air turn exhaust into a glowing bell, and why people see it from more than 1,000 km away.",
+        "pdf": "files/qualle_en.pdf",
+        "preview": "img/qualle_en.jpg",
+        "video": "https://youtu.be/MKNpvOZO5GA"
+      },
+      "de": {
+        "title": "Raketen-Qualle: Warum Starts in der Dämmerung leuchten",
+        "teaser": "Warum eine Abgaswolke vor Sonnenaufgang leuchtet, wie Erdschatten und dünne Luft daraus eine leuchtende Glocke machen und warum man sie aus mehr als 1000 km Entfernung sieht.",
+        "pdf": "files/qualle_de.pdf",
+        "preview": "img/qualle_de.jpg",
+        "video": "https://youtu.be/wFvlyxboF50"
+      }
+    },
+    {
+      "id": "nackt",
+      "added": "2026-10-21",
+      "en": {
+        "title": "Hairless dog mummies: how teeth reveal no fur",
+        "teaser": "How 1,200-year-old dog mummies from Peru were identified as hairless dogs by teeth that never grew, how one gene (FOXI3) controls hair and teeth, and what bones reveal about life with the Wari.",
+        "pdf": "files/nackt_en.pdf",
+        "preview": "img/nackt_en.jpg",
+        "video": "https://youtu.be/fIh2d2GT7BA"
+      },
+      "de": {
+        "title": "Nackthund-Mumien: Wie Zähne das fehlende Fell verraten",
+        "teaser": "Wie 1200 Jahre alte Hundemumien aus Peru an nie gewachsenen Zähnen als Nackthunde erkannt wurden, wie ein Gen (FOXI3) Haare und Zähne steuert und was Knochen über das Leben bei den Wari verraten.",
+        "pdf": "files/nackt_de.pdf",
+        "preview": "img/nackt_de.jpg",
+        "video": "https://youtu.be/IR-kob7a4tk"
+      }
+    },
+    {
+      "id": "doom",
+      "added": "2026-10-28",
+      "en": {
+        "title": "The doomsday formula: why 13 November 2026?",
+        "teaser": "How a 1960 Science paper predicted infinite population on 13 November 2026, why hyperbolic growth fit reality until about 1993, and why extrapolating curves is dangerous.",
+        "pdf": "files/doom_en.pdf",
+        "preview": "img/doom_en.jpg",
+        "video": "https://youtu.be/L76kht-6m_E"
+      },
+      "de": {
+        "title": "Die Weltuntergangs-Formel: Warum der 13. November 2026?",
+        "teaser": "Wie ein Science-Artikel von 1960 für den 13. November 2026 unendlich viele Menschen berechnete, warum hyperbolisches Wachstum bis etwa 1993 passte und warum Hochrechnen gefährlich ist.",
+        "pdf": "files/doom_de.pdf",
+        "preview": "img/doom_de.jpg",
+        "video": "https://youtu.be/b7UsJK65yyc"
+      }
+    },
+    {
+      "id": "chem3",
+      "added": "2026-10-24",
+      "en": {
+        "title": "Pure substances and mixtures",
+        "teaser": "Pure substances vs. mixtures, homogeneous and heterogeneous, solutions, emulsions, alloys and why salt melts ice.",
+        "pdf": "files/chem3_en.pdf",
+        "preview": "img/chem3_en.jpg",
+        "video": "https://youtu.be/M86eNQR9ppY"
+      },
+      "de": {
+        "title": "Reinstoffe und Gemische",
+        "teaser": "Reinstoffe und Gemische, homogen und heterogen, Lösungen, Emulsionen, Legierungen und warum Salz Eis schmilzt.",
+        "pdf": "files/chem3_de.pdf",
+        "preview": "img/chem3_de.jpg",
+        "video": "https://youtu.be/8X1y0dVSJbE"
+      }
+    },
+    {
+      "id": "orion",
+      "added": "2026-10-20",
+      "en": {
+        "title": "The Orionids",
+        "teaser": "Halley's Comet dust, 66 km per second, when and where to watch, and how a meteor glows.",
+        "pdf": "files/orion_en.pdf",
+        "preview": "img/orion_en.jpg",
+        "video": "https://youtu.be/Id9hr7RoIdk"
+      },
+      "de": {
+        "title": "Die Orioniden",
+        "teaser": "Staub vom Halleyschen Kometen, 66 km pro Sekunde, wann und wo du sie siehst und warum Meteore leuchten.",
+        "pdf": "files/orion_de.pdf",
+        "preview": "img/orion_de.jpg",
+        "video": "https://youtu.be/BeMrwOAPSd0"
+      }
+    },
+    {
+      "id": "placebo",
+      "added": "2026-10-22",
+      "en": {
+        "title": "The placebo effect",
+        "teaser": "Expectation, open-label placebos, the brain's own painkillers, nocebo and what placebos can't do.",
+        "pdf": "files/placebo_en.pdf",
+        "preview": "img/placebo_en.jpg",
+        "video": "https://youtu.be/AdC-N8VjO1U"
+      },
+      "de": {
+        "title": "Der Placebo-Effekt",
+        "teaser": "Erwartung, offene Placebos, körpereigene Schmerzmittel, Nocebo und was Placebos nicht können.",
+        "pdf": "files/placebo_de.pdf",
+        "preview": "img/placebo_de.jpg",
+        "video": "https://youtu.be/htzl9fUYy4w"
+      }
+    },
+    {
+      "id": "wahl",
+      "added": "2026-10-23",
+      "en": {
+        "title": "Brazil's runoff election",
+        "teaser": "Why there is a runoff, the 50% rule, compulsory voting and Lula vs. Flávio Bolsonaro.",
+        "pdf": "files/wahl_en.pdf",
+        "preview": "img/wahl_en.jpg",
+        "video": "https://youtu.be/sAWvo0KEUMw"
+      },
+      "de": {
+        "title": "Stichwahl in Brasilien",
+        "teaser": "Warum es eine Stichwahl gibt, die 50-Prozent-Regel, Wahlpflicht und Lula gegen Flávio Bolsonaro.",
+        "pdf": "files/wahl_de.pdf",
+        "preview": "img/wahl_de.jpg",
+        "video": "https://youtu.be/8MC-1LSPuFU"
+      }
+    },
+    {
+      "id": "infl",
+      "added": "2026-10-24",
+      "en": {
+        "title": "Inflation",
+        "teaser": "What inflation is, how it's measured, the rule of 70, why 2% is the target and hyperinflation.",
+        "pdf": "files/infl_en.pdf",
+        "preview": "img/infl_en.jpg",
+        "video": "https://youtu.be/fO2uzQdgYAw"
+      },
+      "de": {
+        "title": "Inflation",
+        "teaser": "Was Inflation ist, wie man sie misst, die 70er-Regel, warum 2 Prozent das Ziel ist und Hyperinflation.",
+        "pdf": "files/infl_de.pdf",
+        "preview": "img/infl_de.jpg",
+        "video": "https://youtu.be/vgCCQdA3ycg"
+      }
+    },
+    {
+      "id": "chem4",
+      "added": "2026-10-27",
+      "en": {
+        "title": "Separating mixtures",
+        "teaser": "Sieve and filter, sedimentation, decanting, centrifuge, evaporation, distillation, chromatography and how sea water becomes drinking water.",
+        "pdf": "files/chem4_en.pdf",
+        "preview": "img/chem4_en.jpg",
+        "video": "https://youtu.be/dNOdDaqo6mY"
+      },
+      "de": {
+        "title": "Gemische trennen",
+        "teaser": "Sieb und Filter, Sedimentation, Dekantieren, Zentrifuge, Verdunsten, Destillation, Chromatografie und wie aus Meerwasser Trinkwasser wird.",
+        "pdf": "files/chem4_de.pdf",
+        "preview": "img/chem4_de.jpg",
+        "video": "https://youtu.be/LdwHABKduI8"
+      }
+    },
+    {
+      "id": "bruch",
+      "added": "2026-10-25",
+      "en": {
+        "title": "Rational equations",
+        "teaser": "x in the denominator, forbidden numbers, the 4 steps, common denominator, cross multiplying and the bathtub problem.",
+        "pdf": "files/bruch_en.pdf",
+        "preview": "img/bruch_en.jpg",
+        "video": "https://youtu.be/DIOpVJ4ozO4"
+      },
+      "de": {
+        "title": "Bruchgleichungen",
+        "teaser": "x im Nenner, verbotene Zahlen, die 4 Schritte, Hauptnenner, über Kreuz malnehmen und die Badewannen-Aufgabe.",
+        "pdf": "files/bruch_de.pdf",
+        "preview": "img/bruch_de.jpg",
+        "video": "https://youtu.be/Dyor1l85zsE"
+      }
+    },
+    {
+      "id": "jap",
+      "added": "2026-10-19",
+      "en": {
+        "title": "Earthquake warnings",
+        "teaser": "The false M9.9 alarm in Japan, P and S waves, early warning, the logarithmic magnitude scale and false vs missed alarms.",
+        "pdf": "files/jap_en.pdf",
+        "preview": "img/jap_en.jpg",
+        "video": "https://youtu.be/YfyqypUOn1w"
+      },
+      "de": {
+        "title": "Erdbeben-Warnungen",
+        "teaser": "Der falsche 9,9-Alarm in Japan, P- und S-Wellen, Frühwarnung, die logarithmische Stärke-Skala und Fehlalarm vs. verpasster Alarm.",
+        "pdf": "files/jap_de.pdf",
+        "preview": "img/jap_de.jpg",
+        "video": "https://youtu.be/5K8vHuGxQRw"
+      }
+    },
+    {
+      "id": "falt",
+      "added": "2026-10-25",
+      "en": {
+        "title": "Folding paper and doubling",
+        "teaser": "Why every fold doubles the layers, powers of 2, how thick 42 folds would be, why you get stuck at 7 folds and the world records.",
+        "pdf": "files/falt_en.pdf",
+        "preview": "img/falt_en.jpg",
+        "video": "https://youtu.be/kyGtbfL8zTc"
+      },
+      "de": {
+        "title": "Papier falten und Verdoppeln",
+        "teaser": "Warum jede Faltung die Lagen verdoppelt, Zweierpotenzen, wie dick 42 Faltungen wären, warum bei 7 Schluss ist und die Weltrekorde.",
+        "pdf": "files/falt_de.pdf",
+        "preview": "img/falt_de.jpg",
+        "video": "https://youtu.be/DiIGBJMZJsU"
+      }
+    },
+    {
+      "id": "komet",
+      "added": "2026-10-20",
+      "en": {
+        "title": "Comet C/2026 S1 and how comets are named",
+        "teaser": "How the Euclid telescope found a comet by accident, what C, 2026, S and 1 in its name mean, the Kuiper belt and the Oort cloud.",
+        "pdf": "files/komet_en.pdf",
+        "preview": "img/komet_en.jpg",
+        "video": "https://youtu.be/kxq4fL1nge0"
+      },
+      "de": {
+        "title": "Komet C/2026 S1 und wie Kometen heissen",
+        "teaser": "Wie das Teleskop Euclid aus Versehen einen Kometen fand, was C, 2026, S und 1 im Namen bedeuten, Kuipergürtel und Oortsche Wolke.",
+        "pdf": "files/komet_de.pdf",
+        "preview": "img/komet_de.jpg",
+        "video": "https://youtu.be/Wo8Lrrm5oA4"
+      }
+    },
+    {
+      "id": "batt",
+      "added": "2026-10-21",
+      "en": {
+        "title": "Switzerland's water battery",
+        "teaser": "How a storage lake works like a battery, pumped storage, the winter electricity gap, arbitrage and why the Swiss lakes are low before winter 2026.",
+        "pdf": "files/batt_en.pdf",
+        "preview": "img/batt_en.jpg",
+        "video": "https://youtu.be/4ZtG3HSb3JE"
+      },
+      "de": {
+        "title": "Die Wasserbatterie der Schweiz",
+        "teaser": "Wie ein Speichersee als Batterie funktioniert, Pumpspeicher, Winterstromlücke, Arbitrage und warum die Seen vor dem Winter 2026 tief sind.",
+        "pdf": "files/batt_de.pdf",
+        "preview": "img/batt_de.jpg",
+        "video": "https://youtu.be/BA26b3T3Q5M"
+      }
+    },
+    {
+      "id": "hallo",
+      "added": "2026-10-27",
+      "en": {
+        "title": "Where Halloween comes from",
+        "teaser": "Samhain, All Hallows' Eve and why the first lanterns were turnips.",
+        "pdf": "files/hallo_en.pdf",
+        "preview": "img/hallo_en.jpg",
+        "video": "https://youtu.be/ezIVkm0k2IM"
+      },
+      "de": {
+        "title": "Woher Halloween kommt",
+        "teaser": "Samhain, All Hallows' Eve und warum die ersten Laternen Rüben waren.",
+        "pdf": "files/hallo_de.pdf",
+        "preview": "img/hallo_de.jpg",
+        "video": "https://youtu.be/q8RoG53KLUw"
+      }
+    },
+    {
+      "id": "phys1",
+      "added": "2026-10-22",
+      "en": {
+        "title": "What is physics?",
+        "teaser": "The rules of nature, physics vs. chemistry, the areas of physics, how science works and Galileo's falling test.",
+        "pdf": "files/phys1_en.pdf",
+        "preview": "img/phys1_en.jpg",
+        "video": "https://youtu.be/DBGcthrT8fE"
+      },
+      "de": {
+        "title": "Was ist Physik?",
+        "teaser": "Die Regeln der Natur, Physik oder Chemie, die Gebiete der Physik, wie Forschung funktioniert und Galileis Fallversuch.",
+        "pdf": "files/phys1_de.pdf",
+        "preview": "img/phys1_de.jpg",
+        "video": "https://youtu.be/3neMaAVonHY"
+      }
+    },
+    {
+      "id": "mstr",
+      "added": "2026-10-22",
+      "en": {
+        "title": "Meta's $25 Billion Fine",
+        "teaser": "What happened in New Mexico, Cambridge Analytica, how a fine per violation is calculated, why the judge chose less, the interest and why your data has value.",
+        "pdf": "files/mstr_en.pdf",
+        "preview": "img/mstr_en.jpg",
+        "video": "https://youtu.be/JClQTD8hTok"
+      },
+      "de": {
+        "title": "Metas 25-Milliarden-Strafe",
+        "teaser": "Was in New Mexico passiert ist, Cambridge Analytica, wie man eine Strafe pro Verstoss berechnet, warum der Richter darunter blieb, der Zins und warum deine Daten wertvoll sind.",
+        "pdf": "files/mstr_de.pdf",
+        "preview": "img/mstr_de.jpg",
+        "video": "https://youtu.be/nfl11-NL5wQ"
+      }
+    },
+    {
+      "id": "zell",
+      "added": "2026-10-23",
+      "en": {
+        "title": "Old Cells, Young Again",
+        "teaser": "Same DNA, different switches: epigenetics, biological vs. chronological age, the Nobel Prize trick (Gurdon, Yamanaka) and the Bonn study.",
+        "pdf": "files/zell_en.pdf",
+        "preview": "img/zell_en.jpg",
+        "video": "https://youtu.be/aP_TDJhZsqE"
+      },
+      "de": {
+        "title": "Alte Zellen wieder jung",
+        "teaser": "Gleiche DNA, andere Schalter: Epigenetik, biologisches und chronologisches Alter, der Nobelpreis-Trick (Gurdon, Yamanaka) und die Bonner Studie.",
+        "pdf": "files/zell_de.pdf",
+        "preview": "img/zell_de.jpg",
+        "video": "https://youtu.be/VFVNm-AM02M"
+      }
+    },
+    {
+      "id": "mathe1",
+      "added": "2026-10-24",
+      "en": {
+        "title": "What Is Math? The Bee Puzzle",
+        "teaser": "Math as the language of patterns, its big areas, the 360° tiling rule and why hexagons need the least wax (honeycomb conjecture, Hales 1999).",
+        "pdf": "files/mathe1_en.pdf",
+        "preview": "img/mathe1_en.jpg",
+        "video": "https://youtu.be/pybYrHTOBtQ"
+      },
+      "de": {
+        "title": "Was ist Mathe? Das Bienen-Rätsel",
+        "teaser": "Mathe als Sprache der Muster, ihre grossen Gebiete, die 360°-Regel beim Parkettieren und warum Sechsecke am wenigsten Wachs brauchen (Wabenvermutung, Hales 1999).",
+        "pdf": "files/mathe1_de.pdf",
+        "preview": "img/mathe1_de.jpg",
+        "video": "https://youtu.be/Lpr_7Qu9MuM"
+      }
+    },
+    {
+      "id": "wp",
+      "added": "2026-10-26",
+      "en": {
+        "title": "How a Heat Pump Works",
+        "teaser": "What heat really is, why heat flows downhill, the refrigerant loop with its four stations, COP 3 to 4 instead of magic, two myths, and why your fridge is a heat pump too.",
+        "pdf": "files/wp_en.pdf",
+        "preview": "img/wp_en.jpg",
+        "video": "https://youtu.be/Yz9Pdqu3BRc"
+      },
+      "de": {
+        "title": "So funktioniert eine Wärmepumpe",
+        "teaser": "Was Wärme wirklich ist, warum Wärme bergab fliesst, der Kältemittel-Kreislauf mit vier Stationen, Leistungszahl 3 bis 4 statt Zauberei, zwei Mythen und warum dein Kühlschrank auch eine Wärmepumpe ist.",
+        "pdf": "files/wp_de.pdf",
+        "preview": "img/wp_de.jpg",
+        "video": "https://youtu.be/CaSZlNBrQC0"
+      }
+    },
+    {
+      "id": "php",
+      "added": "2026-10-23",
+      "en": {
+        "title": "The PHP alarm (PHP2Shell)",
+        "teaser": "What PHP is, security holes, remote code execution, the memory bugs, responsible disclosure, the leaked CVE numbers and zero-day race, why AI found a bug hidden for 10+ years, and how to protect yourself.",
+        "pdf": "files/php_en.pdf",
+        "preview": "img/php_en.jpg",
+        "video": "https://youtu.be/MzHaZlSMBYM"
+      },
+      "de": {
+        "title": "Der PHP-Alarm (PHP2Shell)",
+        "teaser": "Was PHP ist, Sicherheitslücken, Remote Code Execution, die Speicherfehler, verantwortungsvolle Offenlegung, die verratenen CVE-Nummern und das Zero-Day-Wettrennen, warum KI einen über 10 Jahre versteckten Fehler fand und wie du dich schützt.",
+        "pdf": "files/php_de.pdf",
+        "preview": "img/php_de.jpg",
+        "video": "https://youtu.be/HqbABC0Asm8"
+      }
+    },
+    {
+      "id": "monty",
+      "added": "2026-10-27",
+      "en": {
+        "title": "The Monty Hall problem",
+        "teaser": "The rules, the 50/50 trap, what a probability is, every case counted, the 100 doors trick, the 1990 argument, a 3-cup experiment and the fine print: why switching wins 2 out of 3.",
+        "pdf": "files/monty_en.pdf",
+        "preview": "img/monty_en.jpg",
+        "video": "https://youtu.be/8klulHyBjqE"
+      },
+      "de": {
+        "title": "Das Monty-Hall-Rätsel",
+        "teaser": "Die Spielregeln, die 50:50-Falle, was Wahrscheinlichkeit ist, alle Fälle gezählt, der Trick mit 100 Türen, der Streit von 1990, ein Becher-Experiment und das Kleingedruckte: warum Wechseln 2 von 3 gewinnt.",
+        "pdf": "files/monty_de.pdf",
+        "preview": "img/monty_de.jpg",
+        "video": "https://youtu.be/E_8hDGPdTec"
+      }
+    },
+    {
+      "id": "phys2",
+      "added": "2026-10-27",
+      "en": {
+        "title": "Measuring and units",
+        "teaser": "Why we need units, the SI system with 7 base units, how the metre, second and kilogram are defined today, prefixes from milli to kilo, converting step by step, and how a mix-up of units lost a Mars probe in 1999.",
+        "pdf": "files/phys2_en.pdf",
+        "preview": "img/phys2_en.jpg",
+        "video": "https://youtu.be/rDs4YfXSJW0"
+      },
+      "de": {
+        "title": "Messen und Einheiten",
+        "teaser": "Warum wir Einheiten brauchen, das SI-System mit 7 Basiseinheiten, wie Meter, Sekunde und Kilogramm heute festgelegt sind, Vorsilben von Milli bis Kilo, Umrechnen Schritt für Schritt und wie 1999 eine Verwechslung der Einheiten eine Marssonde kostete.",
+        "pdf": "files/phys2_de.pdf",
+        "preview": "img/phys2_de.jpg",
+        "video": "https://youtu.be/8ZKTs0PdE_w"
+      }
+    },
+    {
+      "id": "chem5",
+      "added": "2026-10-28",
+      "en": {
+        "title": "What is a chemical reaction?",
+        "teaser": "Physical change or chemical reaction, atoms swapping partners, the 5 clues, energy in and out, reactions in your kitchen and body, and why the Statue of Liberty turned green.",
+        "pdf": "files/chem5_en.pdf",
+        "preview": "img/chem5_en.jpg",
+        "video": ""
+      },
+      "de": {
+        "title": "Was ist eine chemische Reaktion?",
+        "teaser": "Physikalische Veränderung oder chemische Reaktion, Atome tauschen Partner, die 5 Hinweise, Energie rein und raus, Reaktionen in Küche und Körper und warum die Freiheitsstatue grün wurde.",
+        "pdf": "files/chem5_de.pdf",
+        "preview": "img/chem5_de.jpg",
+        "video": ""
+      }
+    },
+    {
+      "id": "zahl",
+      "added": "2026-10-29",
+      "en": {
+        "title": "Where do numbers come from?",
+        "teaser": "Tally marks, Roman numerals and why zero was a revolution.",
+        "pdf": "files/zahl_en.pdf",
+        "preview": "img/zahl_en.jpg",
+        "video": "https://youtu.be/MWzhXsTjcYo"
+      },
+      "de": {
+        "title": "Woher kommen die Zahlen?",
+        "teaser": "Kerbhölzer, römische Zahlen und warum die Null eine Revolution war.",
+        "pdf": "files/zahl_de.pdf",
+        "preview": "img/zahl_de.jpg",
+        "video": "https://youtu.be/18dZ5L1N0p4"
+      }
+    },
+    {
+      "id": "pleite",
+      "added": "2026-10-29",
+      "en": {
+        "title": "Why so many companies go bust",
+        "teaser": "Insolvency, bankruptcy, moratorium, zombie companies and creative destruction.",
+        "pdf": "files/pleite_en.pdf",
+        "preview": "img/pleite_en.jpg",
+        "video": "https://youtu.be/8Y92J1Nndl8"
+      },
+      "de": {
+        "title": "Warum so viele Firmen pleitegehen",
+        "teaser": "Insolvenz, Konkurs, Nachlassstundung, Zombie-Firmen und schöpferische Zerstörung.",
+        "pdf": "files/pleite_de.pdf",
+        "preview": "img/pleite_de.jpg",
+        "video": "https://youtu.be/Gap9L88Bjcc"
+      }
+    },
+    {
+      "id": "zug",
+      "added": "2026-10-30",
+      "en": {
+        "title": "Why trains never drive by sight",
+        "teaser": "Braking distance, blocks and signals, automatic train protection, fail-safe and the Swiss cheese model.",
+        "pdf": "files/zug_en.pdf",
+        "preview": "img/zug_en.jpg",
+        "video": "https://youtu.be/MiqrNuJKmjw"
+      },
+      "de": {
+        "title": "Warum Züge nicht auf Sicht fahren",
+        "teaser": "Bremsweg, Blöcke und Signale, Zugbeeinflussung, ausfallsicher und das Schweizer-Käse-Modell.",
+        "pdf": "files/zug_de.pdf",
+        "preview": "img/zug_de.jpg",
+        "video": "https://youtu.be/q1gnkVLJ67k"
+      }
+    },
+    {
+      "id": "phys3",
+      "added": "2026-10-30",
+      "en": {
+        "title": "Huge and tiny numbers: powers of ten",
+        "teaser": "Exponent, tiny numbers, scientific notation, prefixes and the journey from atom to universe.",
+        "pdf": "files/phys3_en.pdf",
+        "preview": "img/phys3_en.jpg",
+        "video": "https://youtu.be/9coZRL2qiM8"
+      },
+      "de": {
+        "title": "Riesige und winzige Zahlen: Zehnerpotenzen",
+        "teaser": "Hochzahl, winzige Zahlen, wissenschaftliche Schreibweise, Vorsilben und die Reise vom Atom zum Universum.",
+        "pdf": "files/phys3_de.pdf",
+        "preview": "img/phys3_de.jpg",
+        "video": "https://youtu.be/udv8DxPgbLE"
+      }
+    },
+    {
+      "id": "chem6",
+      "added": "2026-10-31",
+      "en": {
+        "title": "The atom: protons, neutrons, electrons",
+        "teaser": "Nucleus, electron cloud, atomic number, mass number and why atoms are mostly empty space.",
+        "pdf": "files/chem6_en.pdf",
+        "preview": "img/chem6_en.jpg",
+        "video": "https://youtu.be/4WMhf0yz4EQ"
+      },
+      "de": {
+        "title": "Das Atom: Protonen, Neutronen, Elektronen",
+        "teaser": "Atomkern, Elektronenwolke, Ordnungszahl, Massenzahl und warum Atome fast leer sind.",
+        "pdf": "files/chem6_de.pdf",
+        "preview": "img/chem6_de.jpg",
+        "video": "https://youtu.be/huBo0MQdQ_U"
+      }
+    },
+    {
+      "id": "horror",
+      "added": "2026-10-31",
+      "en": {
+        "title": "Why horror movies are fun",
+        "teaser": "Amygdala alarm, adrenaline, the safe-brain trick, the sweet spot of fear, goosebumps and the uncanny valley.",
+        "pdf": "files/horror_en.pdf",
+        "preview": "img/horror_en.jpg",
+        "video": "https://youtu.be/d7FSzFkIL1A"
+      },
+      "de": {
+        "title": "Warum Horrorfilme Spass machen",
+        "teaser": "Amygdala-Alarm, Adrenalin, der Sicherheits-Trick im Gehirn, der Sweet Spot der Angst, Gänsehaut und das unheimliche Tal.",
+        "pdf": "files/horror_de.pdf",
+        "preview": "img/horror_de.jpg",
+        "video": "https://youtu.be/KZ7Fl9Rbg64"
+      }
+    },
+    {
+      "id": "stell",
+      "added": "2026-11-01",
+      "en": {
+        "title": "The place value system (and binary)",
+        "teaser": "Ones, tens, hundreds, bundling by ten, zero as placeholder, why we use ten, binary with 0 and 1, and counting to 1,023 on your fingers.",
+        "pdf": "files/stell_en.pdf",
+        "preview": "img/stell_en.jpg",
+        "video": "https://youtu.be/btceFY18Cq4"
+      },
+      "de": {
+        "title": "Das Stellenwertsystem (und das Binärsystem)",
+        "teaser": "Einer, Zehner, Hunderter, Bündeln mit zehn, die Null als Platzhalter, warum zehn, das Binärsystem mit 0 und 1 und an den Fingern bis 1023 zählen.",
+        "pdf": "files/stell_de.pdf",
+        "preview": "img/stell_de.jpg",
+        "video": "https://youtu.be/mAdVHIQySIw"
+      }
+    },
+    {
+      "id": "gap",
+      "added": "2026-11-01",
+      "en": {
+        "title": "1.5 °C is gone? The UN Emissions Gap Report",
+        "teaser": "What 1.5 °C means, the bathtub of CO2, 2.8 °C with current policies, the overshoot, CO2 removal and the cuts needed by 2030 and 2035.",
+        "pdf": "files/gap_en.pdf",
+        "preview": "img/gap_en.jpg",
+        "video": "https://youtu.be/X5gIcF9wGbk"
+      },
+      "de": {
+        "title": "Die 1,5 Grad sind weg: UNO-Bericht zur Emissionslücke",
+        "teaser": "Was 1,5 Grad bedeuten, die CO2-Badewanne, 2,8 Grad mit heutiger Politik, der Overshoot, CO2-Entnahme und die nötigen Senkungen bis 2030 und 2035.",
+        "pdf": "files/gap_de.pdf",
+        "preview": "img/gap_de.jpg",
+        "video": "https://youtu.be/6bFZObe-GPA"
+      }
+    },
+    {
+      "id": "krypto",
+      "added": "2026-10-30",
+      "en": {
+        "title": "The biggest crypto theft: Binance 2026",
+        "teaser": "Crypto exchanges, blockchain and private keys, hot vs cold wallets, the Binance hack, why transfers can't be undone, and social engineering.",
+        "pdf": "files/krypto_en.pdf",
+        "preview": "img/krypto_en.jpg",
+        "video": "https://youtu.be/cwl8j-vCTtA"
+      },
+      "de": {
+        "title": "Der grösste Krypto-Raub: Binance 2026",
+        "teaser": "Kryptobörse, Blockchain und private Schlüssel, Hot und Cold Wallet, der Binance-Hack, warum es kein Zurück gibt und Social Engineering.",
+        "pdf": "files/krypto_de.pdf",
+        "preview": "img/krypto_de.jpg",
+        "video": "https://youtu.be/4Vwo_xSzhn4"
+      }
+    },
+    {
+      "id": "physik-4-dichte",
+      "added": "2026-11-02",
+      "en": {
+        "title": "Mass, volume and density",
+        "teaser": "Why does a steel ship float? Mass, volume, density, float or sink and buoyancy on one page.",
+        "pdf": "files/physik-4-dichte_en.pdf",
+        "preview": "img/physik-4-dichte_en.jpg",
+        "video": "https://youtu.be/cD1L2gsvTQQ"
+      },
+      "de": {
+        "title": "Masse, Volumen und Dichte",
+        "teaser": "Warum schwimmt ein Schiff aus Stahl? Masse, Volumen, Dichte, schwimmen oder sinken und Auftrieb auf einen Blick.",
+        "pdf": "files/physik-4-dichte_de.pdf",
+        "preview": "img/physik-4-dichte_de.jpg",
+        "video": "https://youtu.be/fLNBGE2CHpQ"
+      }
+    },
+    {
+      "id": "gaehnen-ansteckend",
+      "added": "2026-11-02",
+      "en": {
+        "title": "Why is yawning contagious?",
+        "teaser": "Yawning, the oxygen myth, brain cooling, mirror neurons and empathy on one page.",
+        "pdf": "files/gaehnen-ansteckend_en.pdf",
+        "preview": "img/gaehnen-ansteckend_en.jpg",
+        "video": "https://youtu.be/57SiZOnfNYE"
+      },
+      "de": {
+        "title": "Warum ist Gähnen ansteckend?",
+        "teaser": "Gähnen, Sauerstoff-Mythos, Hirnkühlung, Spiegelneuronen und Empathie auf einen Blick.",
+        "pdf": "files/gaehnen-ansteckend_de.pdf",
+        "preview": "img/gaehnen-ansteckend_de.jpg",
+        "video": "https://youtu.be/xO6-B1odHmU"
+      }
+    },
+    {
+      "id": "chemie-7-atommodelle",
+      "added": "2026-11-03",
+      "en": {
+        "title": "Atomic models: Democritus to Bohr",
+        "teaser": "From the uncuttable atom to the electron cloud: 5 models, each a bit wrong, each one closer.",
+        "pdf": "files/chemie-7-atommodelle_en.pdf",
+        "preview": "img/chemie-7-atommodelle_en.jpg",
+        "video": "https://youtu.be/gJImrJxJKCQ"
+      },
+      "de": {
+        "title": "Atommodelle: Demokrit bis Bohr",
+        "teaser": "Vom unteilbaren Atom bis zur Elektronenwolke: 5 Modelle, jedes etwas falsch, jedes näher dran.",
+        "pdf": "files/chemie-7-atommodelle_de.pdf",
+        "preview": "img/chemie-7-atommodelle_de.jpg",
+        "video": "https://youtu.be/1ffZ-_ADI9w"
+      }
+    },
+    {
+      "id": "mathe-4-grundrechenarten",
+      "added": "2026-11-04",
+      "en": {
+        "title": "The four basic operations",
+        "teaser": "Adding, subtracting, multiplying, dividing, the order of operations and the viral 8 ÷ 2(2+2).",
+        "pdf": "files/mathe-4-grundrechenarten_en.pdf",
+        "preview": "img/mathe-4-grundrechenarten_en.jpg",
+        "video": "https://youtu.be/PRzFe3X5yWk"
+      },
+      "de": {
+        "title": "Die vier Grundrechenarten",
+        "teaser": "Plus, Minus, Mal, Geteilt, Punkt vor Strich und die virale Aufgabe 8 : 2(2+2).",
+        "pdf": "files/mathe-4-grundrechenarten_de.pdf",
+        "preview": "img/mathe-4-grundrechenarten_de.jpg",
+        "video": "https://youtu.be/TU2oRoUWggY"
+      }
+    },
+    {
+      "id": "f1-mexiko",
+      "added": "2026-11-04",
+      "en": {
+        "title": "Why F1 Cars Suffocate in Mexico City",
+        "teaser": "Thin air at 2,240 m: less downforce, a turbo at its limit and cooling that barely keeps up.",
+        "pdf": "files/f1-mexiko_en.pdf",
+        "preview": "img/f1-mexiko_en.jpg",
+        "video": "https://youtu.be/tXqSQg3A3kM"
+      },
+      "de": {
+        "title": "Warum F1-Autos in Mexiko ersticken",
+        "teaser": "Dünne Luft auf 2240 m: weniger Abtrieb, ein Turbo am Limit und eine Kühlung, die kaum nachkommt.",
+        "pdf": "files/f1-mexiko_de.pdf",
+        "preview": "img/f1-mexiko_de.jpg",
+        "video": "https://youtu.be/4QNJBU8P8k8"
+      }
+    },
+    {
+      "id": "us-midterms-2026-kongress",
+      "added": "2026-11-04",
+      "en": {
+        "title": "US Midterms 2026: Congress Flips",
+        "teaser": "Checks and balances, how US elections work, House vs Senate, veto and two thirds, and why the president's party loses the midterms.",
+        "pdf": "files/us-midterms-2026-kongress_en.pdf",
+        "preview": "img/us-midterms-2026-kongress_en.jpg",
+        "video": "https://youtu.be/bSCDfsaj3FM"
+      },
+      "de": {
+        "title": "US-Zwischenwahlen 2026: Der Kongress kippt",
+        "teaser": "Checks and Balances, so wählt Amerika, Repräsentantenhaus und Senat, Veto und zwei Drittel, und warum die Partei des Präsidenten verliert.",
+        "pdf": "files/us-midterms-2026-kongress_de.pdf",
+        "preview": "img/us-midterms-2026-kongress_de.jpg",
+        "video": "https://youtu.be/_Fi4_CVsI-A"
+      }
+    },
+    {
+      "id": "kassenschlange-wahrscheinlichkeit",
+      "added": "2026-11-05",
+      "en": {
+        "title": "Why the Other Checkout Line Is Always Faster",
+        "teaser": "Probability between 0 and 1, the Laplace rule, complementary probability, multiplying for many trips, your brain's bias and the fairest queue.",
+        "pdf": "files/kassenschlange-wahrscheinlichkeit_en.pdf",
+        "preview": "img/kassenschlange-wahrscheinlichkeit_en.jpg",
+        "video": "https://youtu.be/AB5YS8CUP5g"
+      },
+      "de": {
+        "title": "Warum die andere Kassenschlange immer schneller ist",
+        "teaser": "Wahrscheinlichkeit zwischen 0 und 1, Laplace-Regel, Gegenwahrscheinlichkeit, Multiplizieren bei vielen Einkäufen, dein Gehirn und die fairste Schlange.",
+        "pdf": "files/kassenschlange-wahrscheinlichkeit_de.pdf",
+        "preview": "img/kassenschlange-wahrscheinlichkeit_de.jpg",
+        "video": "https://youtu.be/-HBLbEIhpbU"
+      }
+    }
+  ]
+}
