@@ -1313,6 +1313,24 @@
         "preview": "img/kaugummi-mythos_de.jpg",
         "video": ""
       }
+    },
+    {
+      "id": "physik-5-geschwindigkeit",
+      "added": "2026-11-07",
+      "en": {
+        "title": "Physics 5: Speed",
+        "teaser": "km/h or m/s? Speed = distance ÷ time, the 3.6 trick, from a snail to light, average vs. instantaneous speed and how far you travel.",
+        "pdf": "files/physik-5-geschwindigkeit_en.pdf",
+        "preview": "img/physik-5-geschwindigkeit_en.jpg",
+        "video": "https://youtu.be/vGK5l9F2_6A"
+      },
+      "de": {
+        "title": "Physik 5: Geschwindigkeit",
+        "teaser": "km/h oder m/s? Geschwindigkeit = Weg ÷ Zeit, der 3,6-Trick, von der Schnecke bis zum Licht, Durchschnitt vs. Momentangeschwindigkeit und wie weit du kommst.",
+        "pdf": "files/physik-5-geschwindigkeit_de.pdf",
+        "preview": "img/physik-5-geschwindigkeit_de.jpg",
+        "video": "https://youtu.be/74Aqys_Vpwc"
+      }
     }
   ]
 }
