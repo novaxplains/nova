@@ -1295,6 +1295,24 @@
         "preview": "img/kassenschlange-wahrscheinlichkeit_de.jpg",
         "video": "https://youtu.be/-HBLbEIhpbU"
       }
+    },
+    {
+      "id": "kaugummi-mythos",
+      "added": "2026-11-06",
+      "en": {
+        "title": "The chewing gum myth",
+        "teaser": "Does swallowed gum really stay in your stomach for 7 years? What gum is made of, how digestion works and when gum becomes a problem.",
+        "pdf": "files/kaugummi-mythos_en.pdf",
+        "preview": "img/kaugummi-mythos_en.jpg",
+        "video": ""
+      },
+      "de": {
+        "title": "Der Kaugummi-Mythos",
+        "teaser": "Bleibt verschluckter Kaugummi wirklich 7 Jahre im Magen? Woraus Kaugummi besteht, wie Verdauung funktioniert und wann Kaugummi zum Problem wird.",
+        "pdf": "files/kaugummi-mythos_de.pdf",
+        "preview": "img/kaugummi-mythos_de.jpg",
+        "video": ""
+      }
     }
   ]
 }
