@@ -1331,6 +1331,42 @@
         "preview": "img/physik-5-geschwindigkeit_de.jpg",
         "video": "https://youtu.be/74Aqys_Vpwc"
       }
+    },
+    {
+      "id": "chemie-8-elemente-isotope",
+      "added": "2026-11-08",
+      "en": {
+        "title": "Chemistry 8: Elements and Isotopes",
+        "teaser": "What makes an element, chemical symbols, atomic and mass number, isotopes, heavy water that sinks and radioactive carbon 14.",
+        "pdf": "files/chemie-8-elemente-isotope_en.pdf",
+        "preview": "img/chemie-8-elemente-isotope_en.jpg",
+        "video": "https://youtu.be/CrugLNZHzcw"
+      },
+      "de": {
+        "title": "Chemie 8: Elemente und Isotope",
+        "teaser": "Was ein Element ausmacht, chemische Symbole, Ordnungszahl und Massenzahl, Isotope, schweres Wasser, das sinkt, und radioaktiver Kohlenstoff 14.",
+        "pdf": "files/chemie-8-elemente-isotope_de.pdf",
+        "preview": "img/chemie-8-elemente-isotope_de.jpg",
+        "video": "https://youtu.be/oxbqC98qIC4"
+      }
+    },
+    {
+      "id": "mini-mond-2026-qq8",
+      "added": "2026-11-06",
+      "en": {
+        "title": "Earth's mini-moon: 2026 QQ8",
+        "teaser": "How Earth briefly captures an asteroid: the Hill sphere, why only slow asteroids get caught, mini-moon vs. quasi-moon and why the Sun pulls it away again.",
+        "pdf": "files/mini-mond-2026-qq8_en.pdf",
+        "preview": "img/mini-mond-2026-qq8_en.jpg",
+        "video": "https://youtu.be/qZxdN8zFM4s"
+      },
+      "de": {
+        "title": "Der Mini-Mond der Erde: 2026 QQ8",
+        "teaser": "Wie die Erde kurz einen Asteroiden einfängt: die Hill-Sphäre, warum nur langsame Asteroiden hängen bleiben, Mini-Mond vs. Quasi-Mond und warum ihn die Sonne wieder wegzieht.",
+        "pdf": "files/mini-mond-2026-qq8_de.pdf",
+        "preview": "img/mini-mond-2026-qq8_de.jpg",
+        "video": "https://youtu.be/pcdpv8uC-Uo"
+      }
     }
   ]
 }
