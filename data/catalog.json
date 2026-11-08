@@ -1367,6 +1367,24 @@
         "preview": "img/mini-mond-2026-qq8_de.jpg",
         "video": "https://youtu.be/pcdpv8uC-Uo"
       }
+    },
+    {
+      "id": "stein-vom-mars-teghaza-001",
+      "added": "2026-11-08",
+      "en": {
+        "title": "A stone from Mars: Teghaza 001",
+        "teaser": "How a 4.1-billion-year-old rock flew from Mars to the Sahara – and how we know it's from Mars.",
+        "pdf": "files/stein-vom-mars-teghaza-001_en.pdf",
+        "preview": "img/stein-vom-mars-teghaza-001_en.jpg",
+        "video": "https://youtu.be/35jS-14u9FY"
+      },
+      "de": {
+        "title": "Ein Stein vom Mars: Teghaza 001",
+        "teaser": "Wie ein 4,1 Milliarden Jahre alter Stein vom Mars in die Sahara kam – und woher wir wissen, dass er vom Mars stammt.",
+        "pdf": "files/stein-vom-mars-teghaza-001_de.pdf",
+        "preview": "img/stein-vom-mars-teghaza-001_de.jpg",
+        "video": "https://youtu.be/hlC9gI-6wsk"
+      }
     }
   ]
 }
